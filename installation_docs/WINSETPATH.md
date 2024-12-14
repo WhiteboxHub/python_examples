@@ -9,7 +9,7 @@ To add Python to your PATH variable:
 
 1. Find the path of **python.exe** on your system.
    [Look in these directories](PATH_LOCATIONS.md) or search for it.
-2. Open *System Properties* and click on the *Advanced* tab
+2. Open *System Properties* and click on the *Advanced* tab 
 3. Click on *Environment Variables*
 4. Under *System variables* find and click on the *Path* variable
 5. In edit mode, go to the end of the line and add **;C:\Python38** or whatever folder *python.exe* is in.
