@@ -7,10 +7,10 @@ follow the instructions here instead: [add Python to the PATH variable](WINSETPA
 
 1. Check the *Add Python to PATH* box
 2. Choose the *Customize installation* option
-   `<img width="60%" src="img\installer_1.png">`
+    ` <img width="60%" src="img/installer_1.png">`
 3. Keep the default settings and click *Next*
-   `<img width="60%" src="img/installer_2.png">`
+    ` <img width="60%" src="img/installer_2.png">`
 4. Check the *Install for all users* box
 5. Customize the install location: **C:\Python313** or whatever version number you're installing
 6. Click *Install*
-   `<img width="60%" src="img/installer_3.png">`
+    ` <img width="60%" src="img/installer_3.png">`
