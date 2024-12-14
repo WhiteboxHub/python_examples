@@ -1,6 +1,6 @@
 # Locating Python on your computer
 
-If you are trying to find the location of Python3 on your computer,
+If you are trying to find  the location of Python3 on your computer,
 try these locations first.
 The exact location and filename will depend
 on the method you used to install Python
